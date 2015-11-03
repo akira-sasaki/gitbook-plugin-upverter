@@ -3,13 +3,13 @@ This is a plugin that allows you to add Facebook comments plugin in your GitBook
 # Usage
 To add Upverter' Schematic and PCB Layout into your GitBook
 
-`book.json`
+## `book.json`
 
 ```
 "plugins": ["upverter"],
 ```
 
-`your markdown document`
+## `your markdown document`
 
 You must define full url,  you can find url from embeded design at project of upverter.
 ```
